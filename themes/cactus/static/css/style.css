@@ -15,9 +15,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
     line-height: 1
-    /* Background color */
-    background-color: black;
-    color: white;
+
 }
 .input-group{
 
@@ -215,7 +213,9 @@ html, body {
 
 body {
     font: 13px/1 'AvenirLight', Helvetica, Arial, sans-serif;
-    color: #666;
+    /* Background color */
+    background-color: black;
+    color: white;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
